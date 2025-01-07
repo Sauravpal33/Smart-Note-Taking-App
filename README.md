@@ -1,8 +1,6 @@
 **App Description:**
 
-**Notes Keeper - Simple & Smart Note-Taking App**
-
-**Take control of your ideas, tasks, and reminders with Notes Keeper, a lightweight and user-friendly notes application designed to keep you organized.**
+**Smart Note-Taking App**
 
 **Key Features:**
 
